@@ -59,7 +59,7 @@ E.g.
 ![image](https://user-images.githubusercontent.com/906604/163671665-52235372-dbc4-4b39-9bf8-0223fa2773d0.png)
 
 With the final result:
-![image](https://user-images.githubusercontent.com/906604/163671676-637c9827-cd2c-4c08-a95d-a32c00f74c0a.png)
+![image](https://user-images.githubusercontent.com/906604/163671823-999db0bf-1a65-43f9-9b56-5fd7f5ee2172.png)
 
 In this way it is possible to create different relationships between articles.
 It will then be possible to manage these custom fields with the appropriate overrides to create real liniks between the articles.
